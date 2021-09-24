@@ -1,0 +1,212 @@
+body{
+    /* sign in */
+
+position: relative;
+width: 1280px;
+height: 720px;
+background: #FFFFFF;
+
+}
+.p1{/* Sign in to your Co-guide account */
+
+
+    position: absolute;
+    width: 379px;
+    height: 33px;
+    left: 813px;
+    top: 179px;
+    
+    font-family: Oxygen;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 33px;
+    /* identical to box height */
+    
+    
+    color: #00000000;
+    
+
+color: #000000;
+}
+.t1{
+    
+    position: absolute;
+    width: 400px;
+    height: 44px;
+    left: 791px;
+    top: 258px;
+    
+    background: rgba(249, 255, 255, 0.2);
+    border-radius: 5px;
+}
+::placeholder{
+    position: absolute;
+    width: 55px;
+    height: 28px;
+    left: 813px;
+    top: 265px;
+    
+    font-family: Oxygen;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 28px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+    
+    opacity: 0.7;
+}
+.t2{
+    /* password */
+
+
+    position: absolute;
+    width: 400px;
+    height: 44px;
+    left: 792px;
+    top: 346px;
+    
+    background: #FEFFFF;
+    border-radius: 5px;
+}
+::placeholder
+{
+    
+position: absolute;
+width: 96px;
+height: 28px;
+left: 813px;
+top: 355px;
+
+font-family: Oxygen;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 28px;
+
+
+
+color: #000000;
+
+opacity: 0.7;
+}
+img{
+    /* loginpic 1 */
+
+
+    position: absolute;
+    width: 553px;
+    height: 422px;
+    left: 103px;
+    top: 179px;
+
+}
+.remember{
+    /* Remember me */
+
+    position: absolute;
+    width: 160px;
+    height: 27px;
+    left: 821px;
+    top: 446px;
+    
+    font-family: Oxygen;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 28px;
+    
+    color: #000000;
+    
+
+}
+.forget
+{
+    /* forgot password? */
+
+
+position: absolute;
+width: 178px;
+height: 27px;
+left: 1020px;
+top: 446px;
+
+font-family: Oxygen;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 28px;
+
+color: #4364F3;
+
+}
+.button
+{
+    /* button*/
+
+
+position: absolute;
+width: 400px;
+height: 44px;
+left: 798px;
+top: 523px;
+font-family: Oxygen;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 25px;
+
+color: #FFFFFF;
+text-align: center;
+background: #4364F3;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.cb{
+    position: absolute;
+    width: 19px;
+    height: 19px;
+    left: 792px;
+    top: 451px;
+
+}
+.ft
+{
+    /* Don’t have a Co-guide account yet? */
+
+
+position: absolute;
+width: 284px;
+height: 23px;
+left: 798px;
+top: 623px;
+
+font-family: Oxygen;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 23px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.su
+{
+/* SIGN UP */
+position: absolute;
+width: 77px;
+height: 25px;
+left: 1082px;
+top: 638px;
+
+font-family: Oxygen;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 25px;
+
+color: #4364F3;
